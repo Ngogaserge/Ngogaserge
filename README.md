@@ -28,7 +28,7 @@ I'm a software developer passionate about building impactful applications. My ex
 
 ### 🌟 Notable Projects
 
-- [**Online voting system**](https://github.com/Ngogaserge/Online-Voting-System): An online voting  platform using Spring Boot and Thymeleaf.
+- [**Online Voting System**](https://github.com/Ngogaserge/Online-Voting-System): An online voting platform using Spring Boot and Thymeleaf.
 - [**Library Management System**](https://github.com/Ngogaserge/mid_testing_25504): A project for managing library resources, focusing on functionality and testing.
 
 ---
@@ -40,4 +40,8 @@ I'm a software developer passionate about building impactful applications. My ex
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/Ngoga-serge) | [Twitter](https://twitter.com/nserge__) | [Instagram](https://instagram.com/ng_serge) | [Email](mailto:sergengoga05@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ngoga-serge)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nserge__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ng_serge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergengoga05@gmail.com)
