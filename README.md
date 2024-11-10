@@ -17,7 +17,7 @@ I'm a passionate software developer with expertise in backend and frontend devel
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Libraries 
 <p>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
