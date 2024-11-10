@@ -1,6 +1,6 @@
 # Hello, I’m Serge 👋
 
-I'm a software developer passionate about building impactful applications. My expertise spans across various technologies, from backend development to front-end design, and I'm always eager to learn and grow.
+I'm a software developer passionate about building impactful applications. My expertise spans from backend development to front-end design, and I'm always eager to learn and grow.
 
 ---
 
@@ -19,6 +19,7 @@ I'm a software developer passionate about building impactful applications. My ex
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,8 +35,14 @@ I'm a software developer passionate about building impactful applications. My ex
 ---
 
 ### 📊 GitHub Stats
-![Serge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=radical)
+
+![Serge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=radical&langs_count=6)
+
+#### Other GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ngogaserge&theme=radical)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Ngogaserge&color=blueviolet&style=flat-square)
 
 ---
 
