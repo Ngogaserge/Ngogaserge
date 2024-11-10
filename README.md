@@ -10,6 +10,7 @@ I'm a passionate software developer with expertise in both backend and frontend 
 <p>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
@@ -53,6 +54,15 @@ I'm a passionate software developer with expertise in both backend and frontend 
 
 ---
 
+## 📈 Additional Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ngogaserge&bg_color=141321&color=9e4c98&line=5bcdec&point=0c0f2c&area=true&hide_border=true" width="48%">
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 <div align="center">
@@ -61,3 +71,6 @@ I'm a passionate software developer with expertise in both backend and frontend 
   <a href="https://instagram.com/ng_serge"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/></a>
   <a href="mailto:sergengoga05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
 </div>
+
+---
+
