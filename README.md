@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Serge 
 
-I'm a passionate software developer with expertise in both backend and frontend development. I love building impactful applications, exploring new technologies, and always striving to grow.
+I'm a passionate software developer with expertise in backend and frontend development. I love building impactful applications, exploring new technologies, and continuously strive to expand my skills.
 
 ---
 
@@ -12,6 +12,7 @@ I'm a passionate software developer with expertise in both backend and frontend 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C# (.NET)"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
 </p>
@@ -23,12 +24,22 @@ I'm a passionate software developer with expertise in both backend and frontend 
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
 </p>
 
 ### Databases
 <p>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
+</p>
+
+### DevOps & Other Tools
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
 </p>
 
 ---
@@ -49,16 +60,8 @@ I'm a passionate software developer with expertise in both backend and frontend 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ngogaserge&theme=radical" alt="GitHub Streak" width="45%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ngogaserge&bg_color=141321&color=9e4c98&line=5bcdec&point=0c0f2c&area=true&hide_border=true" width="45%"/>
   <img src="https://komarev.com/ghpvc/?username=Ngogaserge&color=blueviolet&style=flat-square" alt="Profile Views" width="20%"/>
-</div>
-
----
-
-## 📈 Additional Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=radical" alt="GitHub Streak" width="48%">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ngogaserge&bg_color=141321&color=9e4c98&line=5bcdec&point=0c0f2c&area=true&hide_border=true" width="48%">
 </div>
 
 ---
@@ -73,4 +76,3 @@ I'm a passionate software developer with expertise in both backend and frontend 
 </div>
 
 ---
-
