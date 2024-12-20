@@ -35,6 +35,12 @@ I'm a passionate software developer with expertise in backend and frontend devel
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
 </p>
 
+### Cloud Platforms
+<p>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure"/>
+</p>
+
 ### DevOps & Other Tools
 <p>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
@@ -75,4 +81,6 @@ I'm a passionate software developer with expertise in backend and frontend devel
   <a href="mailto:sergengoga05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
 </div>
 
----
+--- 
+
+Let me know if you'd like any further changes!
