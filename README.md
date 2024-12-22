@@ -52,7 +52,7 @@ I'm a passionate software developer with expertise in backend and frontend devel
 
 ## 🌟 Notable Projects
 
-- 🔗 [**Online Voting System**](https://github.com/Ngogaserge/Online-Voting-System): A secure and efficient online voting platform using Spring Boot and Thymeleaf.
+- 🔗 [**Online Voting System**](https://github.com/Ngogaserge/VoteCast): A secure and efficient online voting platform using Spring Boot and Thymeleaf.
 - 📚 [**Library Management System**](https://github.com/Ngogaserge/mid_testing_25504): A comprehensive project for managing library resources, focusing on functionality and testing.
 
 ---
