@@ -82,5 +82,3 @@ I'm a passionate software developer with expertise in backend and frontend devel
 </div>
 
 --- 
-
-Let me know if you'd like any further changes!
