@@ -4,7 +4,7 @@ I'm a passionate software developer with expertise in backend and frontend devel
 
 ---
 
-##🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 💻 Languages & Frameworks
 <p>
