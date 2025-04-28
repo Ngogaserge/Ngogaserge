@@ -40,27 +40,16 @@ I'm a passionate software developer with expertise in backend and frontend devel
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Ngogaserge">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Serge's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Serge's GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngogaserge&theme=tokyonight" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ngogaserge&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
+---
 
 ---
 
