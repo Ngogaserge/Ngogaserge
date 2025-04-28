@@ -37,17 +37,29 @@ I'm a passionate software developer with expertise in backend and frontend devel
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=radical&cache_seconds=1800" alt="Serge's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="45%"/>
+  <a href="https://github.com/Ngogaserge">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Serge's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ngogaserge&theme=radical" alt="GitHub Streak" width="45%"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ngogaserge&bg_color=141321&color=9e4c98&line=5bcdec&point=0c0f2c&area=true&hide_border=true" width="45%"/>
-  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&color=blueviolet&style=flat-square" alt="Profile Views" width="20%"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngogaserge&theme=tokyonight" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ngogaserge&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 ---
