@@ -4,7 +4,8 @@ I'm a passionate software developer with expertise in backend and frontend devel
 
 ---
 
-🛠️ Technologies & Tools
+##🛠️ Technologies & Tools
+
 💻 Languages & Frameworks
 <p>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
