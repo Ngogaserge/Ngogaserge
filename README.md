@@ -6,7 +6,7 @@ I'm a passionate software developer with expertise in backend and frontend devel
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 <p>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
@@ -23,7 +23,8 @@ I'm a passionate software developer with expertise in backend and frontend devel
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
 </p>
-### 🗄️ Databases & ☁️ Cloud
+
+#### 🗄️ Databases & ☁️ Cloud
 <p>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
