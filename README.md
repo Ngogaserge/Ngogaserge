@@ -45,11 +45,13 @@ I'm a passionate software developer with expertise in backend and frontend devel
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=blue" alt="Profile Views"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngogaserge&theme=tokyonight" alt="Contribution Graph"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ngogaserge&theme=tokyonight&row=1&column=4&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 ---
 
