@@ -1,68 +1,64 @@
-# 👋 Hello, I’m Serge 
+# Serge Ngoga
+**Full-Stack Software Engineer** | Building scalable solutions with modern technologies
 
-I'm a passionate software developer with expertise in backend and frontend development. I love building impactful applications, exploring new technologies, and continuously strive to expand my skills.
-
----
-
-## 🛠️ Technologies & Tools
-
-#### 💻 Languages & Frameworks
-<p>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C# (.NET)"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
-</p>
-
-#### 🗄️ Databases & ☁️ Cloud
-<p>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ngoga-serge)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nserge__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergengoga05@gmail.com)
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Tech Stack
+
+**Backend & APIs**
+```
+Java • Spring Boot • Python • Django • C# (.NET) • Node.js
+```
+
+**Frontend & UI**
+```
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap
+```
+
+**Data & Cloud**
+```
+PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Linux
+```
+
+---
+
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Serge's GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" alt="Top Languages"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
+
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngogaserge&theme=tokyonight" alt="Contribution Graph"/>
-</div>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ngogaserge&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ngogaserge&theme=tokyonight&row=1&column=4&margin-w=15" alt="GitHub Trophies"/>
-  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=blue" alt="Profile Views"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ngogaserge&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
+
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 💡 What I Do
+
+- 🔧 **Backend Development**: Building robust APIs and microservices
+- 🎨 **Frontend Engineering**: Creating responsive, user-centric interfaces  
+- ☁️ **Cloud Architecture**: Designing scalable cloud-native solutions
+- 📊 **Data Engineering**: Working with databases and data pipelines
+
+---
 
 <div align="center">
-  <a href="https://linkedin.com/in/Ngoga-serge"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/nserge__"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="Twitter"/></a>
-  <a href="https://instagram.com/ng_serge"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/></a>
-  <a href="mailto:sergengoga05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
-</div>
+  
+*"Passionate about crafting clean code and innovative solutions"*
 
---- 
+![Profile Views](https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=58A6FF)
+
+</div>
