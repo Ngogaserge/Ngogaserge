@@ -30,7 +30,7 @@ PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngogaserge&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6)
 
