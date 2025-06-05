@@ -31,7 +31,6 @@ PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
 <div align="center">
   
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngogaserge&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6)
 
 </div>
 
