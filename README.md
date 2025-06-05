@@ -55,6 +55,4 @@ PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
 
 *Passionate about clean code, innovative solutions, and continuous learning*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ngogaserge&style=flat-square&color=58A6FF)
-
 </div>
