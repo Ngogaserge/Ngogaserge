@@ -11,17 +11,17 @@
 
 **Backend Development**
 ```
-Java • Spring Boot • Python • Django • C# (.NET) • Node.js
+Java • Spring Boot • Python • Django • C# (.NET) • Node.js • Typescript 
 ```
 
 **Frontend Development**
 ```
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap 
 ```
 
 **Database & Cloud**
 ```
-PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
+PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git 
 ```
 
 ---
