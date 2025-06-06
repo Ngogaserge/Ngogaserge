@@ -11,7 +11,7 @@
 
 **Backend Development**
 ```
-Java • Spring Boot • Python • Django • C# (.NET) • Node.js • Typescript • Go
+Java • Spring Boot • Dart • Python • Django • C# (.NET) • Node.js • Typescript • Go
 ```
 
 **Frontend Development**
