@@ -42,10 +42,6 @@ PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
 
 ---
 
-
-
----
-
 <div align="center">
 
 *Passionate about clean code, innovative solutions, and continuous learning*
