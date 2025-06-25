@@ -42,12 +42,7 @@ PostgreSQL • MySQL • MongoDB • AWS • Azure • Docker • Git
 
 ---
 
-## 💼 What I Do
 
-🔧 **Backend Engineering** - Building robust APIs and scalable microservices  
-🎨 **Frontend Development** - Creating responsive and intuitive user interfaces  
-☁️ **Cloud Solutions** - Designing and deploying cloud-native applications  
-📊 **Database Design** - Optimizing data storage and retrieval systems
 
 ---
 
