@@ -65,9 +65,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ngogaserge&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
 
 <div align="center">
   <em>💡 Passionate about clean code, innovative solutions, and continuous learning</em>
