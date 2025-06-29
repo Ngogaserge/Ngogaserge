@@ -57,12 +57,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ngogaserge&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Activity Graph
 <div align="center">
@@ -79,8 +73,3 @@
   <em>💡 Passionate about clean code, innovative solutions, and continuous learning</em>
 </div>
 
----
-
-<div align="center">
-  <h3>🤝 Let's Connect and Build Something Amazing Together!</h3>
-</div>
